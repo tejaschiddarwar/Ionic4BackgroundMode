@@ -1,0 +1,8 @@
+{
+  "name": "Ionic4BackgroundMode",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
